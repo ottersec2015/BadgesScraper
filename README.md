@@ -1,27 +1,37 @@
-# BadgesScraper
+# Discord Server Badges Scraper
 
-![image](https://user-images.githubusercontent.com/84898161/140304551-22e354fa-7160-4552-b33a-b7a2862dfe9c.png)
+![image](https://user-images.githubusercontent.com/84898161/140304655-059bc263-fad8-4c0b-ae97-f69234b6fdbb.png)
 
-
-Discord Servers Badges Scraper
+Custom Discord Vanity Creator
 
 # How To Use
 
-1. Open CustomVanity.py
+1. Install discum
 
-![image](https://user-images.githubusercontent.com/84898161/123322459-a220b400-d534-11eb-999b-3385bbf39489.png)
+1.2 Open a terminal and execute "pip install discum"
 
-2. Write your server invite code
+![image](https://user-images.githubusercontent.com/84898161/140303525-68f6e09e-837b-49ba-9781-0dec86d38d5d.png)
 
-![image](https://user-images.githubusercontent.com/84898161/123322534-b82e7480-d534-11eb-8b2b-7d569c462f7a.png)
 
-3. Write the Custom Vanity Code
+2. Update config
 
-![image](https://user-images.githubusercontent.com/84898161/123322620-ce3c3500-d534-11eb-8d26-9d0c3c0428de.png)
+2.2 Open badges.py in any text editor and change the settings
 
-4. Go Discord and press CTRL+V and send the spoofed message!
+{token = your discord account token}
+{guild_id = discord server/guild id}
+{channel_id = channel id from a discord server}
 
-![image](https://user-images.githubusercontent.com/84898161/123322714-eca23080-d534-11eb-9531-49ca263000c7.png)
+![image](https://user-images.githubusercontent.com/84898161/140303741-2472604e-d2c8-49cd-993f-b04fbeaa6976.png)
+
+
+3. Open badges.py or execute in a terminal 
+
+![image](https://user-images.githubusercontent.com/84898161/140304250-e7f83abb-7604-400c-ae3a-f84a82bdbeec.png)
+
+
+4. When script finish, go back and open result.txt and !WOW! MAGIC IS REAL
+
+![image](https://user-images.githubusercontent.com/84898161/140304080-3189a490-1061-4118-b69e-c0aeacd98fe4.png)
 
 
 <h1>If you liked the script give me a star!</h1>
