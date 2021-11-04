@@ -1,4 +1,4 @@
-# Discord Server Badges Scraper
+# Discord Server Badges Scraper - Credits to bytixo he made this
 
 ![image](https://user-images.githubusercontent.com/84898161/140304655-059bc263-fad8-4c0b-ae97-f69234b6fdbb.png)
 
